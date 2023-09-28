@@ -2,7 +2,7 @@
 **Self Introduction:**
 **Name:** GARNIPUDI KIRAN BABU
 
-**University:**Indian Institute of Technology (Indian School of Mines) Dhanbad
+**University:** Indian Institute of Technology (Indian School of Mines) Dhanbad
 
 **Branch:** Btech(3rd year) in Computer Science and Engineering
 
