@@ -5,7 +5,7 @@
 
 **University:** Indian Institute of Technology (Indian School of Mines) Dhanbad
 
-**Branch:** Btech(3rd year) in Computer Science and Engineering
+**Department:** Computer Science and Engineering (3rd year)
 
 # Project Introduction
 Welcome to the presentation of our modern messaging
@@ -95,15 +95,15 @@ Password security: bcrypt is a robust password hashing algorithm that helps prot
 # Setup and Run Locally
 
 
-**Clone the project:**
+#**Clone the project:**
 
 https://github.com/kiran12714/Chat-app
   
-**Go to the project directory:**
+#**Go to the project directory:**
 
   cd mern-chat-app
   
-**Install dependencies:**
+#**Install dependencies:**
 
   npm install
   
@@ -111,11 +111,11 @@ https://github.com/kiran12714/Chat-app
   
   npm install
   
-**Start the server:**
+#**Start the server:**
 
   npm run start
   
-**Start the Client:**
+#**Start the Client:**
 
   //open now terminal
   
@@ -126,20 +126,10 @@ https://github.com/kiran12714/Chat-app
 
 # Conclusion
 
-OUR MODERN MESSAGING APPLICATION PROTOTYPE COMBINES CUTTING-EDGE TECHNOLOGIES
-WITH A CLEAN, INTUITIVE DESIGN TO PROVIDE USERS WITH A SEAMLESS COMMUNICATION
-EXPERIENCE. WHETHER IT'S INDIVIDUAL CHATS, GROUP CONVERSATIONS, OR VIDEO CALLS, OUR
-PLATFORM IS DESIGNED TO MEET DIVERSE COMMUNICATION NEEDS. I LOOK FORWARD TO YOUR
-FEEDBACK. THANK YOU FOR YOUR TIME, AND CONTRIBUTION.
+Our modern messaging application prototype combines cutting-edge technologies with a clean, intuitive design to provide users with a seamless communication experience. Whether it's individual chats, group conversations, or video calls, our platform is designed to meet diverse communication needs. I look forward to your feedback. Thank you for your time and contribution.
 
-# My Experience
+# My Experience in Making this Project 
 
-MY EXPERIENCE IN THE PROJECT SELECTION ROUND HAS BEEN TRULY ENJOYABLE. BUILDING THIS
-PROJECT HAS ALLOWED ME TO EXPLORE NEW TECHNOLOGIES AND IMMERSE MYSELF IN THE WORLD
-OF MINDWREN, YOUR MENTAL HEALTH CONSULTING PROJECT.
-WHETHER I PROCEED TO THE NEXT ROUND OR NOT, I WANT TO EXPRESS MY GRATITUDE TO
-IMBESIDEYOU COMPANY. THIS JOURNEY HAS BEEN A VALUABLE LEARNING EXPERIENCE AND
-ENJOYABLE WHICH IS MOST IMPORTANT FOR MENTAL HEALTH. THANK YOU FOR THIS OPPORTUNITY,
-AND I LOOK FORWARD TO WHAT LIES AHEAD.
+My experience in the project selection round has been truly enjoyable. Building this project has allowed me to explore new technologies and immerse myself in the world of MindWren, your mental health consulting project. Whether I proceed to the next round or not, I want to express my gratitude to ImBesideYou Company. This journey has been a valuable learning experience and enjoyable, which is most important for mental health. Thank you for this opportunity, and I look forward to what lies ahead.
 
 
