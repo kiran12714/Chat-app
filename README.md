@@ -94,7 +94,6 @@ Password security: bcrypt is a robust password hashing algorithm that helps prot
 
 # Setup and Run Locally
 
-
 #**Clone the project:**
 
 https://github.com/kiran12714/Chat-app
@@ -110,6 +109,14 @@ https://github.com/kiran12714/Chat-app
   cd frontend/
   
   npm install
+
+#**Include these in env file:**
+
+  NODE_ENV=production
+  
+  PORT=5000
+  
+  JWT_SECRET=kiran
   
 #**Start the server:**
 
