@@ -1,5 +1,6 @@
 # Chat-app
 **Self Introduction:**
+
 **Name:** GARNIPUDI KIRAN BABU
 
 **University:** Indian Institute of Technology (Indian School of Mines) Dhanbad
@@ -33,73 +34,69 @@ Add or Remove users from group
 View Other user Profile
 
 # Design Principles
+
 CLEAN AND INTUITIVE USER INTERFACE
+
 RESPONSIVE DESIGN
 
 # Technology Stack
-**FRONTEND:** REACT.JS, REACT ROUTER FOR NAVIGATION.
 
-**BACKEND:** NODE.JS FOR SERVER.
+**Frontend:** React.js, React Router for navigation.
 
-**DATABASE:** MONGODB FOR DATA STORAGE WITH ENCRYPTION.
+**Backend:** Node.js for the server.
 
-**REAL-TIME COMMUNICATION:** WEBSOCKET USING SOCKET.IO FOR REAL-TIME MESSAGE UPDATES.
+**Database:** MongoDB for data storage with encryption.
 
-**AUTHENTICATION:** JSON WEB TOKENS (JWT) FOR SECURE USER AUTHENTICATION AND DATA ENCRYPTION.
+**Real-time communication:** WebSocket using Socket.io for real-time message updates.
 
-**PASSWORD HANDLING:** BCRYPT FOR SECURELY DECODING AND VERIFYING USER CREDENTIALS
+**Authentication:** JSON Web Tokens (JWT) for secure user authentication and data encryption.
+
+**Password handling:** Bcrypt for securely decoding and verifying user credentials.
 
 # Why We Choose This Technology Stack ?
-**REACT:**
-COMPONENT-BASED UI: REACT.JS PROMOTES MODULARITY AND REUSABILITY IN UI
-DEVELOPMENT, WHICH IS USEFUL FOR BUILDING COMPLEX INTERFACES LIKE MESSAGING
-APPLICATIONS.
 
-VIRTUAL DOM: FOR EFFICIENT RENDERING UPDATES, RESULTING IN A SMOOTH USER EXPERIENCE
-IN REAL-TIME APPLICATIONS.
+**REACT:**
+
+Component-based UI: React.js promotes modularity and reusability in UI development, which is useful for building complex interfaces like messaging applications.
+
+Virtual DOM: For efficient rendering updates, resulting in a smooth user experience in real-time applications.
 
 **NODE:**
-NON-BLOCKING, EVENT-DRIVEN: NODE.JS'S NON-BLOCKING, EVENT-DRIVEN ARCHITECTURE
-FOR HANDLING CONCURRENT CONNECTIONS EFFICIENTLY.
 
-JAVASCRIPT ON BOTH SIDES: USING JAVASCRIPT BOTH ON THE FRONTEND AND BACKEND
-ALLOWS FOR EASIER CODE SHARING AND BETTER DEVELOPER COLLABORATION.
+ Non-blocking, event-driven: Node.js's non-blocking, event-driven architecture for handling concurrent connections efficiently.
 
-NPM (NODE PACKAGE MANAGER): NPM PROVIDES ACCESS TO A WEALTH OF PRE-BUILT
-PACKAGES, MAKING IT EASIER TO MANAGE DEPENDENCIES.
+JavaScript on both sides: Using JavaScript both on the frontend and backend allows for easier code sharing and better developer collaboration.
+
+npm (Node Package Manager): npm provides access to a wealth of pre-built packages, making it easier to manage dependencies.
 
 **MONGODB:**
-NOSQL FOR FLEXIBILITY: MONGODB IS A NOSQL DATABASE THAT EXCELS AT HANDLING
-UNSTRUCTURED OR SEMI-STRUCTURED DATA, MAKING IT SUITABLE FOR THE DYNAMIC NATURE OF
-CHAT APPLICATIONS WHERE MESSAGE STRUCTURES CAN VARY.
 
-SCALABILITY: MONGODB'S HORIZONTAL SCALABILITY AND SHARDING CAPABILITIES ALLOW US
-TO HANDLE GROWING DATA VOLUMES EFFICIENTLY.
+NoSQL for flexibility: MongoDB is a NoSQL database that excels at handling unstructured or semi-structured data, making it suitable for the dynamic nature of chat applications where message structures can vary.
 
-REAL-TIME UPDATES: MONGODB'S SUPPORT FOR CHANGE STREAMS ENABLES REAL-TIME
-UPDATES, A CRITICAL FEATURE FOR INSTANT MESSAGE DELIVERY.
+Scalability: MongoDB's horizontal scalability and sharding capabilities allow us to handle growing data volumes efficiently.
+
+Real-time updates: MongoDB's support for change streams enables real-time updates, a critical feature for instant message delivery.
 
 
 **SOCKET.IO:**
-REAL-TIME CAPABILITIES: SOCKET.IO IS DESIGNED FOR REAL-TIME, BIDIRECTIONAL
-COMMUNICATION, WHICH IS ESSENTIAL FOR FEATURES LIKE INSTANT MESSAGE DELIVERY, TYPING
-INDICATORS, AND READ RECEIPTS.
+
+ Real-time capabilities: Socket.io is designed for real-time, bidirectional communication, which is essential for features like instant message delivery, typing indicators, and read receipts.
 
 **JSON WEB TOKENS:**
-STATELESS AUTHENTICATION: JWTS PROVIDE STATELESS AUTHENTICATION, WHICH IS CRUCIAL
-FOR A DISTRIBUTED, SCALABLE APPLICATION LIKE OURS.
 
-DATA ENCRYPTION: USED TO ENCRYPT SENSITIVE DATA, ENHANCING SECURITY AND ENSURING
-USER PRIVACY.
+Stateless authentication: JWTs provide stateless authentication, which is crucial for a distributed, scalable application like ours.
+
+Data encryption: Used to encrypt sensitive data, enhancing security and ensuring user privacy.
 
 **BCRYPT:**
-PASSWORD SECURITY: BCRYPT IS A ROBUST PASSWORD HASHING ALGORITHM THAT HELPS
-PROTECT USER CREDENTIALS BY SECURELY HASHING AND VERIFYING PASSWORDS.
+
+Password security: bcrypt is a robust password hashing algorithm that helps protect user credentials by securely hashing and verifying passwords.
 
 # Setup and Run Locally
 
 
 **Clone the project:**
+
 https://github.com/kiran12714/Chat-app
   
 **Go to the project directory:**
